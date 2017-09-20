@@ -24,3 +24,12 @@ PRINT CAST(@x AS varchar) + ' + ' +
 	CAST(@y AS varchar) + ' = ' +
 	CAST(@tong AS varchar) 
 
+
+/* 
+ * Cau 2
+ */
+ CREATE PROC uspCau2
+ 
+ AS
+	-- ...
+ GO
