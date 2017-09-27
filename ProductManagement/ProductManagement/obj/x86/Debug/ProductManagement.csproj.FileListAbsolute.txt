@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\LTCSDL\ProductManagement\ProductManagement\obj\x86\Debug\ProductManagement.frmProduct.resources
+C:\Users\Admin\Desktop\LTCSDL\ProductManagement\ProductManagement\obj\x86\Debug\ProductManagement.Properties.Resources.resources
+C:\Users\Admin\Desktop\LTCSDL\ProductManagement\ProductManagement\obj\x86\Debug\ProductManagement.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\LTCSDL\ProductManagement\ProductManagement\bin\Debug\ProductManagement.exe
+C:\Users\Admin\Desktop\LTCSDL\ProductManagement\ProductManagement\bin\Debug\ProductManagement.pdb
+C:\Users\Admin\Desktop\LTCSDL\ProductManagement\ProductManagement\obj\x86\Debug\ProductManagement.exe
+C:\Users\Admin\Desktop\LTCSDL\ProductManagement\ProductManagement\obj\x86\Debug\ProductManagement.pdb
+C:\Users\Admin\Desktop\LTCSDL1\ProductManagement\ProductManagement\obj\x86\Debug\ProductManagement.exe
+C:\Users\Admin\Desktop\LTCSDL1\ProductManagement\ProductManagement\obj\x86\Debug\ProductManagement.pdb
+C:\Users\Admin\Desktop\LTCSDL1\ProductManagement\ProductManagement\bin\Debug\ProductManagement.exe
+C:\Users\Admin\Desktop\LTCSDL1\ProductManagement\ProductManagement\bin\Debug\ProductManagement.pdb
+C:\Users\Admin\Desktop\LTCSDL1\ProductManagement\ProductManagement\obj\x86\Debug\ProductManagement.frmProduct.resources
+C:\Users\Admin\Desktop\LTCSDL1\ProductManagement\ProductManagement\obj\x86\Debug\ProductManagement.Properties.Resources.resources
+C:\Users\Admin\Desktop\LTCSDL1\ProductManagement\ProductManagement\obj\x86\Debug\ProductManagement.csproj.GenerateResource.Cache
